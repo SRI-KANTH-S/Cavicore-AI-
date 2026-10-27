@@ -1,0 +1,13 @@
+# CaviCore AI
+
+Decentralized, membrane-free water purification combining hydrodynamic cavitation, Pulsed Electro-Oxidation (PEO), and Edge AI.
+
+## Project Structure
+- `/src`: Firmware for ESP32 and TinyML model deployment.
+- `/docs`: Technical design documents & architecture diagrams.
+- `/data`: Sample telemetry data and test cases.
+
+## Setup & Flashing
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/cavicore-ai.git](https://github.com/your-username/cavicore-ai.git)
